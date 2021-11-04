@@ -5,7 +5,7 @@
 This application is just a login UI.
 The application interface is for testing purposes only and is intended to be made into a working application with the support of Android developers on Github.
 
-Please help develop this project.
+Please help develop this project. 🙏
 
 <b>Login UI:</b>
 
